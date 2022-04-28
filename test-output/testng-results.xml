@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="119" started-at="2022-04-22T17:06:21Z" finished-at="2022-04-22T17:06:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="119" started-at="2022-04-22T17:06:21Z" finished-at="2022-04-22T17:06:21Z">
+      <class name="com.test.TestngSample2">
+        <test-method status="PASS" signature="tc04(java.lang.String, java.lang.String)[pri:0, instance:com.test.TestngSample2@2038ae61]" name="tc04" duration-ms="14" started-at="2022-04-22T17:06:21Z" finished-at="2022-04-22T17:06:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[madhan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[san123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc04 -->
+      </class> <!-- com.test.TestngSample2 -->
+      <class name="com.test.TestngSample">
+        <test-method status="PASS" signature="tc01(java.lang.String, java.lang.String)[pri:0, instance:com.test.TestngSample@60c6f5b]" name="tc01" duration-ms="28" started-at="2022-04-22T17:06:21Z" finished-at="2022-04-22T17:06:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Santhosh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[maddy123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc03()[pri:0, instance:com.test.TestngSample@60c6f5b]" name="tc03" duration-ms="0" started-at="2022-04-22T17:06:21Z" finished-at="2022-04-22T17:06:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc03 -->
+      </class> <!-- com.test.TestngSample -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
