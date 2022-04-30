@@ -16,11 +16,17 @@ public class Test1 {
 
 	}
 @Test
+public void tc03() {
+	System.out.println("Test case 3");
+}
+@Test
+private void tc04() {
 public void tc05() {
 	System.out.println("Test case 3");
 }
 @Test
 public void tc06() {
+
 	System.out.println("Test case 4");
 
 }
