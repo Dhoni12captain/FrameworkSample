@@ -15,5 +15,14 @@ public class Test1 {
 		System.out.println("Test case 2");
 
 	}
+@Test
+public void tc03() {
+	System.out.println("Test case 3");
+}
+@Test
+private void tc04() {
+	System.out.println("Test case 4");
+
+}
 
 }
